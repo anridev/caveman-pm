@@ -1,6 +1,8 @@
 # caveman-pm
 
 **Cut 50-65% of PM agent output tokens without losing any structured data.**
+Inspired by: JuliusBrussee/caveman
+
 
 caveman-pm applies compression rules tuned for PM workflows — daily digests, user stories, release notes, PVGs, sprint follow-ups. It targets the token waste specific to PM outputs: prose preamble, trailing pleasantries, redundant table columns, and verbose Confluence intros.
 
